@@ -1,0 +1,20 @@
+body {
+    background-color:#AAB7C7;
+}
+
+.title {
+    border-color: black;
+    border-style: solid;
+}
+
+.inner-title {
+    border-style: solid;
+    border-color: black;
+    margin: 0.5%;
+}
+
+.title-text {
+    font-size: 450%;
+    text-align: center; 
+
+}
