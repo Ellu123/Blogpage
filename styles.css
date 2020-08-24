@@ -15,7 +15,27 @@ body {
 }
 
 .title-text {
-    font-size: 450%;
+    font-size: 500%;
     text-align: center; 
+}
 
+.blog {
+    float: left;
+    width: 75%;
+}
+
+.blogtitle {
+    font-size: 400%;
+
+}
+
+.blogtext {
+    font-size: 200%;
+
+}
+
+.aboutMe {
+    width: 25%;
+    float: left;
+    padding-left: 1%;
 }
