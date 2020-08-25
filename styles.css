@@ -6,6 +6,8 @@ body {
 .title {
     border-color: black;
     border-style: solid;
+    margin-bottom: 4%;
+    background-color: white;
 }
 
 .inner-title {
@@ -21,7 +23,8 @@ body {
 
 .blog {
     float: left;
-    width: 75%;
+    width: 70%;
+    background-color: white;
 }
 
 .blogtitle {
@@ -35,7 +38,12 @@ body {
 }
 
 .aboutMe {
-    width: 25%;
+    width: 23%;
     float: left;
-    padding-left: 1%;
+    margin-top: 2%;
+    text-align: center;
+    margin-right: 2%;
+    background-color: white;
+    height: 50%;
 }
+
